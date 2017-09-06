@@ -45,7 +45,8 @@
     "prettier": "^1.4.0",
     "resolve": "^1.1.7",
     "supports-color": "^3.1.2",
-    "unquote": "^1.1.0"
+    "unquote": "^1.1.0",
+    "prettier-eslint": "6.4.2"
   },
   "files": [
     "bin/**",
